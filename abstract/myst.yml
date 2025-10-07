@@ -34,6 +34,7 @@ project:
     AirMT: airborne magnetotelluric
     MT: magnetotelluric
     EM: electromagnetics
+    ROI: region of interest
   # github:
   # bibliography: []
   keywords:
@@ -44,9 +45,9 @@ site:
   template: article-theme
   actions:
     - title: pdf
-      url: dccowan-image-2025.pdf
+      url: dccowan_image_2025.pdf
       static: true
     - title: slides
-      url: dccowan-image-2025-slides.pdf
+      url: dccowan_image_2025_slides.pdf
       static: true
   # domains: []
