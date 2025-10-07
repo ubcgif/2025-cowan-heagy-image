@@ -36,19 +36,17 @@ project:
     EM: electromagnetics
   # github:
   # bibliography: []
-  # keywords:
-  #   - Controlled source electromagnetics (CSEM)
-  #   - Downhole methods
-  #   - Numerical modelling
-  #   - Electrical properties
-  #   - Magnetic properties
+  keywords:
+    - Airborne magnetotellurics
+    - Natural source electromagnetics
+    - Inversion
 site:
   template: article-theme
   actions:
-    # - title: pdf
-    #   url: ARTICLE-NAME.pdf
-    #   static: true
-    # - title: slides
-    #   url: presentation/SLIDES-NAME.pdf
-    #   static: true
+    - title: pdf
+      url: dccowan-image-2025.pdf
+      static: true
+    - title: slides
+      url: dccowan-image-2025-slides.pdf
+      static: true
   # domains: []
