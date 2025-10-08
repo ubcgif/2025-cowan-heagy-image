@@ -1,8 +1,8 @@
 version: 1
 project:
-  # id: ubcgif-2025-cowan-heagy-image
-  # title: Exploring the influence of various transfer functions on airborne magnetotelluric inversion
-  # description: Presentation given at IMAGE 2025
+  id: ubcgif-2025-cowan-heagy-image
+  title: Exploring the influence of various transfer functions on airborne magnetotelluric inversion
+  description: Presentation given at IMAGE 2025
   authors:
     - name: Devin C. Cowan
       email: dcowan@eoas.ubc.ca
